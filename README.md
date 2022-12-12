@@ -1,6 +1,6 @@
 # CS360-Mobile-Architect-Programming
 
-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+-Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
   The app required that a simple Inventory based app be implemented that would have abiltiy of using a database to store items for the app to keep track 
   of. The app would have to be able to take the items from the database and display it in a grid. It should also allow the user to add, edit the  
@@ -8,7 +8,7 @@ Briefly summarize the requirements and goals of the app you developed. What user
   requirement is that the user should be able to enable SMS messages privaledges and the app should prompt a permission request for SMS Messages and 
   continue allowing useof the app regardless of answer but only disable SMS Messages if the user denies permission.
   
-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? 
+-What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? 
 Why were your designs successful?
 
   At least 2 screens were needed to provide the basic functionality of the app, a login screen and the main inventory grid screen. Buttons were used to 
@@ -16,7 +16,7 @@ Why were your designs successful?
   such as the pencil icon for the edit button or trash icon for delete button. All buttons were easy to identify, the user would be able to quickly 
   determine that they were buttons which made the design successfull as it was simple to use for any user regardless of tech experience. 
 
-How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+-How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
   The process began with first developing the login screen and all features necessary for that screen like the new account creation feature. Once that 
   was finished and tested, the main screen was developed. Frequent testing was done on a per-feature basis which helped reduce time debugging. I also 
@@ -27,12 +27,12 @@ How did you approach the process of coding your app? What techniques or strategi
   have made the development process easier, this technique will now be thoroughly utilized in the future since I found it to be to useful not to  
   implement. 
   
-How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+-How did you test to ensure your code was functional? Why is this process important and what did it reveal?
   
   Testing was done regularly throughout the process whenver a new feature is being developed. This method allowed for bugs to quickly be found and
   resolved. Overall time and headache on debugging was minimized thanks to this method of testing. 
 
-Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+-Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
   The requirements were somewhat vague on how the data from the database should be displayed on the screen with the only requirment being in grid format.
   There were no specifics on how that could be done so I had to research what was the best way to accomplish that. I look at inventory apps in the app 
@@ -41,7 +41,7 @@ Considering the full app design and development process, from initial planning t
   the items from the inventory was the most difficult function as I knew absolutely nothing about it. I read through many online articles and videos on 
   how to implement it. It eventually did work out and I am quite satisfied with the result.
   
-In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+-In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
   The recycler view component that took items from the database and displayed it in grid view best demonstrated my skills, knowledge and experience.
   My debugging, research, creativity, and problem solving skills were put to the test to implement a feature that, up to this point, I did not even know
